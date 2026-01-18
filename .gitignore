@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+env/
+.idea/
+.vscode/
+
+# Local DB
+chroma_db/
+
+# Streamlit
+.streamlit/
+
+# Secrets (Important!)
+secrets.toml
