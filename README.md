@@ -1,6 +1,8 @@
-# AgileHire: AI-Powered Recruitment System 🕵️‍♂️
+# Smart Recruit Assistant 🕵️‍♂️
 
-**AgileHire** is an intelligent RAG (Retrieval Augmented Generation) application designed to automate the initial screening process for recruitment. It uses LLMs to "read" resumes and answer recruiter questions with evidence-based responses.
+**Live Demo:** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-recruit-assistant.streamlit.app/)
+
+**Smart Recruit Assistant** is an intelligent RAG (Retrieval Augmented Generation) application designed to automate the initial screening process for recruitment. It uses LLMs to "read" resumes and answer recruiter questions with evidence-based responses.
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)

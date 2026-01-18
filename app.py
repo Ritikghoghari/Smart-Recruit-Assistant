@@ -2,9 +2,9 @@ import streamlit as st
 import os
 from utils import extract_text_from_pdf, get_text_chunks, get_vector_store, get_rag_chain
 
-st.set_page_config(page_title="AgileHire", page_icon="🕵️", layout="wide")
+st.set_page_config(page_title="Smart Recruit Assistant", page_icon="🕵️", layout="wide")
 
-st.title("🕵️ AgileHire Retrieval System")
+st.title("🕵️ Smart Recruit Assistant")
 st.markdown("### Upload a Resume & Ask Questions (RAG)")
 
 # Sidebar
